@@ -39,6 +39,12 @@
 
 ![推广位规模—风险矩阵](outputs/figures/promotion_scale_risk_matrix.png)
 
+## Tableau 工作簿
+
+历史探索工作簿见 [tableau/电商数据分析.twb](tableau/电商数据分析.twb)。它保留了 10 个工作表和原始计算逻辑；公开版本已移除本机路径和机器指纹，不包含原始明细数据。打开后需将两个 Excel 数据源重新连接到本地文件，具体说明见 [tableau/README.md](tableau/README.md)。
+
+该工作簿用于展示早期探索过程；对外使用的已验证口径、结果与建议以 `docs/` 和 `outputs/` 为准。
+
 ## 仓库结构
 
 ```text
@@ -51,6 +57,7 @@
 │   ├── analysis/            # 汇总 CSV 和分析摘要 JSON
 │   ├── data_quality/        # 自动生成的质量报告与摘要
 │   └── figures/             # 汇总图表
+├── tableau/                 # 脱敏后的历史 Tableau 工作簿与使用说明
 ├── src/
 │   ├── build_datasets.py    # 生成三张本地清洗分析表
 │   └── analyze_performance.py
@@ -91,4 +98,3 @@ python tests\test_pipeline.py
 ## 工具
 
 Python、Pandas、Matplotlib、Jupyter、Tableau（历史探索工作簿）。
-
