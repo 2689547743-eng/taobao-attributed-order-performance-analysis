@@ -1,0 +1,331 @@
+{
+  "scope": {
+    "order_line_count": 31036,
+    "attributed_order_count": 27521,
+    "attributed_payment_amount": 4072492.0,
+    "item_quantity": 32104,
+    "complete_months": [
+      "2020-12",
+      "2021-01",
+      "2021-02",
+      "2021-04",
+      "2021-05"
+    ],
+    "incomplete_months": [
+      "2020-11",
+      "2021-03"
+    ]
+  },
+  "risk": {
+    "primary_invalid_order_rate": 0.0686,
+    "zero_payment_line_rate": 0.0802,
+    "mixed_status_order_count": 163
+  },
+  "top_tags_by_attributed_payment_amount": [
+    {
+      "一级标签": "益生菌",
+      "二级标签": "益生菌",
+      "attributed_payment_amount": 2516530.49,
+      "attributed_order_count": 14986,
+      "invalid_order_rate": 0.0572,
+      "zero_payment_line_rate": 0.0
+    },
+    {
+      "一级标签": "睡眠",
+      "二级标签": "睡眠",
+      "attributed_payment_amount": 1140424.223,
+      "attributed_order_count": 12338,
+      "invalid_order_rate": 0.0756,
+      "zero_payment_line_rate": 0.1734
+    },
+    {
+      "一级标签": "舒压",
+      "二级标签": "舒压",
+      "attributed_payment_amount": 163825.65,
+      "attributed_order_count": 1632,
+      "invalid_order_rate": 0.0777,
+      "zero_payment_line_rate": 0.1327
+    },
+    {
+      "一级标签": "美容",
+      "二级标签": "美容",
+      "attributed_payment_amount": 71630.12,
+      "attributed_order_count": 493,
+      "invalid_order_rate": 0.0687,
+      "zero_payment_line_rate": 0.145
+    },
+    {
+      "一级标签": "女士维生素",
+      "二级标签": "女士维生素",
+      "attributed_payment_amount": 69164.83,
+      "attributed_order_count": 563,
+      "invalid_order_rate": 0.0894,
+      "zero_payment_line_rate": 0.0124
+    },
+    {
+      "一级标签": "通用维生素",
+      "二级标签": "通用维生素",
+      "attributed_payment_amount": 37987.68,
+      "attributed_order_count": 246,
+      "invalid_order_rate": 0.0955,
+      "zero_payment_line_rate": 0.0
+    },
+    {
+      "一级标签": "儿童维生素",
+      "二级标签": "儿童维生素",
+      "attributed_payment_amount": 16261.02,
+      "attributed_order_count": 97,
+      "invalid_order_rate": 0.0435,
+      "zero_payment_line_rate": 0.0
+    },
+    {
+      "一级标签": "男士维生素",
+      "二级标签": "男士维生素",
+      "attributed_payment_amount": 11961.3,
+      "attributed_order_count": 63,
+      "invalid_order_rate": 0.1111,
+      "zero_payment_line_rate": 0.0
+    },
+    {
+      "一级标签": "专注力",
+      "二级标签": "专注力",
+      "attributed_payment_amount": 10696.65,
+      "attributed_order_count": 88,
+      "invalid_order_rate": 0.0533,
+      "zero_payment_line_rate": 0.0
+    },
+    {
+      "一级标签": "睡眠两瓶装",
+      "二级标签": "睡眠两瓶装",
+      "attributed_payment_amount": 6290.88,
+      "attributed_order_count": 26,
+      "invalid_order_rate": 0.0385,
+      "zero_payment_line_rate": 0.0
+    }
+  ],
+  "top_promotions_by_attributed_payment_amount": [
+    {
+      "推广位ID": "19000067838938",
+      "推广位名称": "VproI56",
+      "attributed_payment_amount": 297961.43,
+      "attributed_order_count": 1701,
+      "active_days": 59,
+      "invalid_order_rate": 0.0625,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "19000066689017",
+      "推广位名称": "VproI526",
+      "attributed_payment_amount": 214823.83,
+      "attributed_order_count": 1241,
+      "active_days": 49,
+      "invalid_order_rate": 0.0427,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "19000065589053",
+      "推广位名称": "VproI524",
+      "attributed_payment_amount": 210280.25,
+      "attributed_order_count": 1245,
+      "active_days": 34,
+      "invalid_order_rate": 0.0281,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "18999857539039",
+      "推广位名称": "VesleepI1",
+      "attributed_payment_amount": 195901.04,
+      "attributed_order_count": 1668,
+      "active_days": 94,
+      "invalid_order_rate": 0.0905,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "18999721388976",
+      "推广位名称": "VsleepI31",
+      "attributed_payment_amount": 169773.023,
+      "attributed_order_count": 1723,
+      "active_days": 97,
+      "invalid_order_rate": 0.0861,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "19000062989104",
+      "推广位名称": "VproI525",
+      "attributed_payment_amount": 158111.18,
+      "attributed_order_count": 903,
+      "active_days": 53,
+      "invalid_order_rate": 0.0543,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "19000067738968",
+      "推广位名称": "VproI555",
+      "attributed_payment_amount": 156312.34,
+      "attributed_order_count": 910,
+      "active_days": 48,
+      "invalid_order_rate": 0.0649,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "18999732539364",
+      "推广位名称": "TsleepI6",
+      "attributed_payment_amount": 154364.61,
+      "attributed_order_count": 1456,
+      "active_days": 80,
+      "invalid_order_rate": 0.0808,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "19000066539000",
+      "推广位名称": "VproI53",
+      "attributed_payment_amount": 144447.79,
+      "attributed_order_count": 841,
+      "active_days": 56,
+      "invalid_order_rate": 0.0654,
+      "is_main_comparison_eligible": true
+    },
+    {
+      "推广位ID": "19000061889165",
+      "推广位名称": "VproI514",
+      "attributed_payment_amount": 140851.76,
+      "attributed_order_count": 825,
+      "active_days": 56,
+      "invalid_order_rate": 0.0521,
+      "is_main_comparison_eligible": true
+    }
+  ],
+  "high_scale_high_risk_tags": [
+    {
+      "一级标签": "睡眠",
+      "二级标签": "睡眠",
+      "attributed_payment_amount": 1140424.223,
+      "attributed_order_count": 12338,
+      "invalid_order_rate": 0.0756
+    },
+    {
+      "一级标签": "舒压",
+      "二级标签": "舒压",
+      "attributed_payment_amount": 163825.65,
+      "attributed_order_count": 1632,
+      "invalid_order_rate": 0.0777
+    },
+    {
+      "一级标签": "美容",
+      "二级标签": "美容",
+      "attributed_payment_amount": 71630.12,
+      "attributed_order_count": 493,
+      "invalid_order_rate": 0.0687
+    },
+    {
+      "一级标签": "女士维生素",
+      "二级标签": "女士维生素",
+      "attributed_payment_amount": 69164.83,
+      "attributed_order_count": 563,
+      "invalid_order_rate": 0.0894
+    },
+    {
+      "一级标签": "通用维生素",
+      "二级标签": "通用维生素",
+      "attributed_payment_amount": 37987.68,
+      "attributed_order_count": 246,
+      "invalid_order_rate": 0.0955
+    },
+    {
+      "一级标签": "男士维生素",
+      "二级标签": "男士维生素",
+      "attributed_payment_amount": 11961.3,
+      "attributed_order_count": 63,
+      "invalid_order_rate": 0.1111
+    },
+    {
+      "一级标签": "睡眠+其它",
+      "二级标签": "睡眠+舒压",
+      "attributed_payment_amount": 5727.59,
+      "attributed_order_count": 44,
+      "invalid_order_rate": 0.1136
+    }
+  ],
+  "high_scale_high_risk_eligible_promotions": [
+    {
+      "推广位ID": "18999857539039",
+      "推广位名称": "VesleepI1",
+      "attributed_payment_amount": 195901.04,
+      "attributed_order_count": 1668,
+      "active_days": 94,
+      "invalid_order_rate": 0.0905
+    },
+    {
+      "推广位ID": "18999721388976",
+      "推广位名称": "VsleepI31",
+      "attributed_payment_amount": 169773.023,
+      "attributed_order_count": 1723,
+      "active_days": 97,
+      "invalid_order_rate": 0.0861
+    },
+    {
+      "推广位ID": "18999732539364",
+      "推广位名称": "TsleepI6",
+      "attributed_payment_amount": 154364.61,
+      "attributed_order_count": 1456,
+      "active_days": 80,
+      "invalid_order_rate": 0.0808
+    },
+    {
+      "推广位ID": "19000065539021",
+      "推广位名称": "VproI54",
+      "attributed_payment_amount": 119138.72,
+      "attributed_order_count": 698,
+      "active_days": 59,
+      "invalid_order_rate": 0.0775
+    },
+    {
+      "推广位ID": "18999738938942",
+      "推广位名称": "TsleepI14",
+      "attributed_payment_amount": 84755.61,
+      "attributed_order_count": 812,
+      "active_days": 61,
+      "invalid_order_rate": 0.1001
+    },
+    {
+      "推广位ID": "19000062889125",
+      "推广位名称": "VproI55",
+      "attributed_payment_amount": 61471.78,
+      "attributed_order_count": 361,
+      "active_days": 51,
+      "invalid_order_rate": 0.0693
+    },
+    {
+      "推广位ID": "18999853939166",
+      "推广位名称": "VesleepI9",
+      "attributed_payment_amount": 57220.85,
+      "attributed_order_count": 414,
+      "active_days": 46,
+      "invalid_order_rate": 0.0918
+    },
+    {
+      "推广位ID": "19000063789096",
+      "推广位名称": "VproI51",
+      "attributed_payment_amount": 54191.79,
+      "attributed_order_count": 325,
+      "active_days": 27,
+      "invalid_order_rate": 0.0831
+    },
+    {
+      "推广位ID": "19000065989050",
+      "推广位名称": "VproI553",
+      "attributed_payment_amount": 37778.75,
+      "attributed_order_count": 219,
+      "active_days": 32,
+      "invalid_order_rate": 0.0822
+    },
+    {
+      "推广位ID": "18999852289131",
+      "推广位名称": "CsleepI41",
+      "attributed_payment_amount": 35569.09,
+      "attributed_order_count": 339,
+      "active_days": 22,
+      "invalid_order_rate": 0.1042
+    }
+  ]
+}
