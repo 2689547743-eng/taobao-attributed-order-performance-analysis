@@ -1,23 +1,10 @@
-# 原始数据和处理后的数据在确认授权前均不纳入版本控制。
-data/raw/*
-!data/raw/README.md
-data/processed/*
-!data/processed/.gitkeep
+# 原始数据不纳入公开仓库。
+data/
+*.xlsx
 
-# 自动生成的数据质量输出
-outputs/data_quality/*
-!outputs/data_quality/.gitkeep
-!outputs/data_quality/data_quality_report.md
-!outputs/data_quality/data_quality_summary.json
-
-# Python 与 Jupyter 运行文件
+# 本地 Tableau 工作目录与系统文件
+.vendor/
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
-.venv/
-venv/
-.vendor/
-
-# 本地操作系统文件
 .DS_Store
 Thumbs.db
