@@ -1,6 +1,6 @@
 # 淘宝商品与推广位分析（Tableau）
 
-这是一个基于 Tableau 工作簿完成的电商分析项目。仓库保留原始工作簿、10 张由 Tableau 导出的工作表截图，以及与工作表说明一致的分析记录；不包含任何重新计算或另行绘制的图表。
+这是一个基于 Tableau 工作簿完成的电商分析项目。仓库保留原始工作簿、10 张由 Tableau 导出的工作表截图、工作表说明记录，以及一份基于合并 Excel 对四项核心结论进行核对的第一人称分析报告。报告不新增图表，所有可视化均来自 Tableau 工作簿。
 
 ## 分析内容
 
@@ -17,6 +17,8 @@
 - **近两个月付费排行**：工作簿说明建议重点关注 `vprol526`、`vprol524`、`vprol525`、`vprol555`、`vprol54`、`vprol522`、`vprol529`、`vprol556`。
 
 完整的工作表说明和图表对应关系见 [Tableau 分析记录](docs/tableau_analysis_notes.md)。
+
+基于合并 Excel 核对后的第一人称结论、归因边界与后续建议见 [分析报告](docs/analysis_report.md)。
 
 ## Tableau 图表
 
@@ -54,7 +56,9 @@
 │   └── README.md             # 本地连接数据源的说明
 ├── outputs/tableau_worksheets/
 │   └── 01-10_*.png           # Tableau 工作表原始截图
-└── docs/tableau_analysis_notes.md
+└── docs/
+    ├── tableau_analysis_notes.md
+    └── analysis_report.md      # Excel 核对后的分析报告
 ```
 
 ## 使用方式
